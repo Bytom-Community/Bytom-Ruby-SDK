@@ -166,7 +166,7 @@ bytom_client.keys.create_key(
    "data"   =>   {  
       "alias"      =>"dayone2",
       "xpub"      =>"7d23d604dc03913d6719fa0fa3b2d9978beef3b4a8c81d7770ec83d2335f7860e8f081009094679ef66381d6a3a4d08063bc48666cb41479924fd4a5b41bf8f9",
-      "file"      =>"/Users/xiudong/Library/Application Support/Bytom/keystore/UTC--2019-01-16T11-35-22.778202000Z--e01d4fc8-ac16-4ddd-a1b7-b6bf4df623c9",
+      "file"      =>"/Path/To/Library/Application Support/Bytom/keystore/UTC--2019-01-16T11-35-22.778202000Z--e01d4fc8-ac16-4ddd-a1b7-b6bf4df623c9",
       "mnemonic"      =>"trap column derive melody okay angle cousin brother smoke trend misery sugar"
    }
 }
