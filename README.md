@@ -11,7 +11,7 @@ The SDK supports Ruby versions 2.3.0 or later.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'bytom', '>= 1.0.0'
+gem 'bytom', '>= 1.0.1'
 ```
 
 And then execute:
