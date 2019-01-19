@@ -134,7 +134,7 @@ bytom_client.transactions.submit_transaction(
 
 ## All API usage examples
 
-All api usage examples you can see [doc](https://github.com/bitdayone/bytom-ruby-sdk/master/API-Reference.md). 
+All api usage examples you can see [doc](https://github.com/bitdayone/bytom-ruby-sdk/blob/master/API-Reference.md). 
 
 ## Support and Feedback
 
